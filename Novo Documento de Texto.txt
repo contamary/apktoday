@@ -1,0 +1,4 @@
+ICIANDO COM GIT FLOW
+* Criar repositório no git
+-git clone link--------- (No pc)
+-git flow init (Na pasta criada)
